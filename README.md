@@ -88,7 +88,7 @@
   "DFIntGameNetLocalSpaceMaxSendIndex": "100000"
 }
 ```
-### freeze clientsided
+### freeze everyone (clientsided)
 ###### ctrl +f7
 ``` json
 {
