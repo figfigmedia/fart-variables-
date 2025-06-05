@@ -89,7 +89,7 @@
 }
 ```
 ### freeze everyone (clientsided)
-###### ctrl +f7
+###### ctrl f7
 ``` json
 {
 "DFFlagDebugEnableInterpThrottle": "True"
