@@ -102,21 +102,47 @@
  "DFIntNewRunningBaseGravityReductionFactorHundredth": "1695"
  }
 ```
-### anything you touch goes to heaven
-###### Cameron56378 on github
-###### s you aswell but very high
+### quick list (for my use)
 ``` json
 {
-"DFIntDebugSimPrimalLineSearch": "5000",
-"DFIntBulletContactBreakOrthogonalThresholdPercent": "1000000",
-"DFIntDebugSimPrimalWarmstartVelocity": "10000",
-"FFlagDebugSimDefaultPrimalSolver": "True",
-"FFlagDebugSimPrimalGSLump": "True",
-"FIntDebugSimPrimalGSLumpAlpha": "-1111",
-"DFIntDebugSimPrimalStiffness": "30000",
-"DFIntMinClientSimulationRadius": "2147000000",
-"DFIntMinimalSimRadiusBuffer": "2147000000",
-"DFIntMaxClientSimulationRadius": "2147000000"
+    "DFIntBandwidthManagerApplicationDefaultBps": "96000",
+    "DFIntBandwidthManagerDataSenderMaxWorkCatchupMs": "50",
+    "FLogNetwork": "7",
+    "FFlagHandleAltEnterFullscreenManually": "true",
+    "DFIntRemoteEventSingleInvocationSizeLimit": "0",
+    "DFIntMaximumFreefallMoveTimeInTenths2": "-2147483648",
+    "DFIntPhysicsImprovedCyclicExecutiveThrottleThresholdTenth": "99999",
+    "DFIntCanHideGuiGroupId": "7",
+    "FIntSimDefaultFluidForceEnabled": "0",
+    "FStringDebugShowFlagState": "",
+    "FFlagFutureIsBrightPhase3Vulkan": "false",
+    "DFIntDebugFRMQualityLevelOverride": "14",
+    "FFlagGameBasicSettingsFramerateCap5": "True",
+    "FStringDebugLuaLogLevel": "trace",
+    "FIntNewDevConsoleMaxLogCount": "217483647",
+    "DFIntSolidFloorPercentForceApplication2": "-391474",
+    "DFIntNonSolidFloorPercentForceApplication2": "-391474",
+    "DFIntMinClientSimulationRadius": "-2147000000",
+    "DFIntMinimalSimRadiusBuffer": "-2147000000",
+    "DFIntMaxClientSimulationRadius": "-2147000000",
+    "DFFlagDebugPhysicsSenderDoesNotShrinkSimRadius": "True",
+    "FFlagDebugUseCustomSimRadius": "True",
+    "DFIntDebugDynamicRenderKiloPixels": 2073,
+    "DFFlagDebugRenderForceTechnologyVoxel": "True",
+    "DFIntConnectionMTUSize": "1396",
+    "DFFlagTextureQualityOverrideEnabled": "True",
+    "DFIntTextureQualityOverride": "3",
+    "DFIntAssetPreloading": "2147483647",
+    "DFIntNumAssetsMaxToPreload": "2147483647",
+    "FStringGetPlayerImageDefaultTimeout": "1",
+    "FFlagEnablePreferredTextSizeScale": "True",
+    "FFlagEnablePreferredTextSizeSettingInMenus2": "True",
+    "DFFlagDebugEnableInterpThrottle": "True",
+    "DFIntMaxFrameBufferSize": "4",
+    "DFIntTaskSchedulerTargetFps": "0",
+    "GuiHidingApiSupport2": "True",
+    "FIntDebugForceMSAASamples": "8",
+    "FFlagDebugGraphicsPreferD3D11FL10": "True"
 }
 ```
 ### Spin 1
