@@ -95,12 +95,18 @@
 "DFFlagDebugEnableInterpThrottle": "True"
 }
 ```
-### fling people
-###### worlds buggiest stuff ever
+### skeleton esp
+###### doesnt work in most game and crash
 ``` json
 {
- "DFIntNewRunningBaseGravityReductionFactorHundredth": "1695"
- }
+  "DFFlagAnimatorDrawSkeletonAttachments": "True",
+  "DFFlagAnimatorDrawSkeletonAll": "True",
+  "DFFlagDebugDrawEnable": "True",
+  "DFIntAnimatorDrawSkeletonScalePercent": "999",
+  "DFFlagAnimatorDrawSkeletonText": "true",
+  "FFlagDataModelPatcherForceLocal": "True",
+  "FFlagHighlightOutlinesOnMobile": "True"
+}
 ```
 ### quick list (for my use)
 ``` json
