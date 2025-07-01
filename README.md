@@ -95,7 +95,7 @@
 "DFFlagDebugEnableInterpThrottle": "True"
 }
 ```
-### skeleton esp
+### skeleton esp (works game list soon maybe)
 ###### doesnt work in most game and crash
 ``` json
 {
