@@ -95,8 +95,8 @@
 "DFFlagDebugEnableInterpThrottle": "True"
 }
 ```
-### skeleton esp (works game list soon maybe)
-###### doesnt work in most game and crash
+### skeleton esp
+###### doesnt work in some game and crash
 ``` json
 {
   "DFFlagAnimatorDrawSkeletonAttachments": "True",
