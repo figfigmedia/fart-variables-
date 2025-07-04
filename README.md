@@ -104,6 +104,7 @@
   "DFFlagDebugDrawEnable": "True",
   "DFIntAnimatorDrawSkeletonScalePercent": "999",
   "DFFlagAnimatorDrawSkeletonText": "true",
+  "DFFlagAnimatorDrawSkeleton": "true",
   "FFlagDataModelPatcherForceLocal": "True",
   "FFlagHighlightOutlinesOnMobile": "True"
 }
